@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.quirogal.cursoandroidkotlin.parteuno">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeConActionBar">
+        <activity
+            android:name=".clase4.Clase08Anko"
+            android:theme="@style/AppThemeSinActionBar">
+
+        </activity>
+        <activity
+            android:name=".sesion1.ActivityGuiaSesion1"
+            android:theme="@style/AppThemeConActionBar" />
+        <activity
+            android:name=".sesion1.ActivityImagenes"
+            android:theme="@style/AppThemeConActionBar" />
+        <activity
+            android:name=".sesion1.ActivityControles"
+            android:theme="@style/AppThemeConActionBar" />
+        <activity
+            android:name=".sesion1.ActivityVideo"
+            android:theme="@style/AppThemeConActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

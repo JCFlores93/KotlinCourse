@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiAplicacionAndroid2</string>
+
+
+    <string name="as2_btn1">Controles UI Comunes</string>
+    <string name="as2_btn2">Controles UI Material Desgin 1</string>
+    <string name="as2_btn3">Controles UI Navegacion</string>
+    <string name="as2_btn4">Controles UI Navegacion - Bottom Navigation View</string>
+    <string name="as2_btn5">Controles UI ActionBar</string>
+    <string name="as2_btn6">Controles UI Spinner</string>
+    <string name="as2_btn7">Controles UI Autocompletetextview</string>
+    <string name="as2_btn8">Controles UI AlertDialog</string>
+    <string name="as2_btn9">Orientacion y ciclo de vida</string>
+
+
+</resources>

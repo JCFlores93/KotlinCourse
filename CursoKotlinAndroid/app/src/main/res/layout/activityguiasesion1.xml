@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnControles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Controles" />
+
+    <Button
+        android:id="@+id/btnImagenes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Imagenes" />
+
+    <Button
+        android:id="@+id/btnVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Video" />
+</LinearLayout>

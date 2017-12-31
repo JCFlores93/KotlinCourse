@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MiAplicacionAndroid2</string>
+
+
+    <string name="as2_btn1">Controls UI Comon</string>
+    <string name="as2_btn2">Controls UI Material Desgin 1</string>
+    <string name="as2_btn3">Controls UI Navigation - DraweLayour</string>
+    <string name="as2_btn4">Controls UI Navigation - Bottom Navigation View</string>
+    <string name="as2_btn5">Controls UI ActionBar</string>
+    <string name="as2_btn6">Controls UI Spinner</string>
+    <string name="as2_btn7">Controls UI Autocompletetextview</string>
+    <string name="as2_btn8">Controls UI AlertDialog</string>
+    <string name="as2_btn9">Orientation And Life Cycle</string>
+
+    <string-array name="frutas">
+        <item>peras</item>
+        <item>manzanas</item>
+        <item>mangos</item>
+        <item>uvas</item>
+        <item>chirimoyas</item>
+        <item>kiwis</item>
+        <item>granadilla</item>
+    </string-array>
+    <string-array name="paises">
+        <item>peru</item>
+        <item>colombia</item>
+        <item>venezuela</item>
+        <item>francia</item>
+        <item>alemania</item>
+    </string-array>
+</resources>
